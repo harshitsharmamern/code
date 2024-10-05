@@ -7,6 +7,11 @@ void fun(int n){
     x++;
    }
    
+
+
+   ///use class code
+   cycle c1(6);
+   c1.speed();
 }
 
 int main() {
