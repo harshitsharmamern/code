@@ -18,20 +18,12 @@ void fun(int n){
    //////
    cycle c(5);
 
-
-   ////
-
-
-
-
-//    addcycle
-   
-   
-
-
-   ///use class code
    cycle c1(6);
    c1.speed();
+
+   cycle c2(7);cycle c3(8);cycle c4(9);
+   
+   c3.speed();
 }
 
 int main() {
