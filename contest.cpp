@@ -27,6 +27,11 @@ void fun(int n){
 //    addcycle
    
    
+
+
+   ///use class code
+   cycle c1(6);
+   c1.speed();
 }
 
 int main() {
